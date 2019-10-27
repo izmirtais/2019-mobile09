@@ -1,7 +1,6 @@
 package id.ac.polinema.recyclerviewsangatsederhana.models;
 
 public class SuperHero {
-
     public String heroName;
 
     public SuperHero(String heroName) {
